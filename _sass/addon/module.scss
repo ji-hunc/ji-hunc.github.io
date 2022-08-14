@@ -100,8 +100,10 @@
 }
 
 %sidebar-links {
-  color: rgba(117, 117, 117, 0.9);
+  color: rgb(255, 255, 255);
+  // color: rgba(117, 117, 117, 0.9);
   user-select: none;
+  // text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 /* ---------- scss mixin --------- */
